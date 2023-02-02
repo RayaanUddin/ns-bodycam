@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-author "NakreS - https://discord.gg/nchub"
+author "Rayaan Uddin"
 
 ui_page "html/bodycam.html"
 
